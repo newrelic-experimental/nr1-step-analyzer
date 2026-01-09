@@ -7,7 +7,7 @@
     "test": "exit 0"
   },
   "dependencies": {
-    "aws-sdk": "^2.748.0",
+    "aws-sdk": "^2.1693.0",
     "lodash": "^4.17.20",
     "moment": "^2.27.0",
     "prop-types": "^15.6.2",
